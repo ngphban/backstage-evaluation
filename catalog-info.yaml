@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Backstage-evaluation
+  description: Backstage evaluation
+  annotations:
+    github.com/project-slug: ngphban/backstage-evaluation
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: tma
