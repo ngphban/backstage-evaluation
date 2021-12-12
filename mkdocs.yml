@@ -1,0 +1,9 @@
+site_name: 'Documentation'
+
+nav:
+  - Backstage Evaluation:
+    - Backstage Evaluation: backstage-evaluation.md
+    - Backstage versus DHP Portal: backstage-vs-dhp.md
+
+plugins:
+  - techdocs-core
