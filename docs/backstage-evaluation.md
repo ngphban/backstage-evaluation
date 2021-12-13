@@ -13,12 +13,12 @@ Thoughtworks is collaborating with Spotify to deliver better developer effective
 ### Backstage Adopters:
 As mentioned in a [Backstage Post on Sep 30, 2021](https://backstage.io/blog/2021/09/30/50-public-adopters), Backstage reached its important milestone: 50+ public adopters. 
 
-![Backstage's public adopters](https://backstage.io/blog/assets/21-09-30/50-public-adopters.png)
+![Backstage's public adopters](./images/50-public-adopters.png)
 
 List of adopters could be found at: https://github.com/backstage/backstage/blob/master/ADOPTERS.md
 
 #### The growth from Github information (the number of contributors, PRs and rating):
-![Backstage stats](https://backstage.io/blog/assets/21-09-30/backstage-stats.png)
+![Backstage stats](./images/backstage-stats.png)
 
 More than 50 plugins in [Backstage Plugin Marketplace](https://backstage.io/plugins).
 
