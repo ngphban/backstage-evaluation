@@ -1,14 +1,6 @@
 # Backstage.io Evaluation
 
 ## Who all are adopting Backstage
-As [Thoughtworks](https://www.thoughtworks.com/) 's assessment, Backstage is currently at Trial state. 
->**Trial**: Worth pursuing. It is important to understand how to build up this capability. Enterprises should try this technology on a project that can handle the risk.
-
-[![thoughtworks - backstage](./images/thoughtworks-backstage.png)](https://www.thoughtworks.com/radar/platforms)
-
-The blib history could be found here: https://www.thoughtworks.com/radar/platforms/backstage
-
-Thoughtworks is collaborating with Spotify to deliver better developer effectiveness with Backstage - https://www.thoughtworks.com/about-us/news/2021/thoughtworks-is-collaborating-with-spotify-to-deliver-better-dev
 
 ### Backstage Adopters:
 As mentioned in a [Backstage Post on Sep 30, 2021](https://backstage.io/blog/2021/09/30/50-public-adopters), Backstage reached its important milestone: 50+ public adopters. 
